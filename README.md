@@ -12,7 +12,7 @@ Clone o repositório para o seu ambiente local. Use o seguinte comando no termin
 
 Abra o Git Bash 
 Copie o código:
-- git clone https://github.com/KennnedyRamos/teste-tecnico-flutter
+`git clone https://github.com/KennnedyRamos/teste-tecnico-flutter`
 
 Para iniciantes recomendo que siga o passo a passo a baixo
 
@@ -23,7 +23,8 @@ Instale as Dependências:
 Siga as instruções abaixo para instalar as dependências necessárias.
 
 1. Instalando o Vs Code
-    **Recomendação*
+
+    *Recomendação*
    
 [link do vídeo do YouTube ](https://www.youtube.com/watch?v=uxln1hT_Ev4) para auxiliar
 
@@ -59,7 +60,8 @@ Click em "Instalar" e aguarde a instalação
 
 2. Instalar o SDK do Flutter
 
-**Recomendação*
+*Recomendação*
+
 Assista ao vídeo tutorial aqui para orientações detalhadas. 
 [Link do vídeo no YouTube](https://www.youtube.com/watch?v=dpppZ9ySJSY&t=1204s) para auxiliar
 
@@ -82,7 +84,7 @@ Click para fazer o download
 
 Passo 4
 
-**Recomendações*
+*Recomendações*
 
 Crie uma pasta na raiz do disco local C. "src"
     
@@ -151,7 +153,8 @@ Se atente com os verificados em verde: "Flutter","Windows version", "Conected De
 
 3. Baixando o Git
 
-**Recomendação*
+*Recomendação*
+
 [link do vídeo do YouTube](https://www.youtube.com/watch?v=_hZf1teRFNg)  para auxiliar
 
 Passo 1
@@ -189,7 +192,7 @@ Passo 2
 
 Abra-o
 Digite o seguinte comando para verificar se a instalação está ok
-´´´git --version´´´
+`git --version`
 Aperte "Enter"
 
 ![MINGW64__c_Users_PC_Downloads 07_12_2023 15_59_51](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/c8fd3cb0-ca4b-4ed0-a92d-7622e26e7931)
@@ -205,7 +208,7 @@ Caso não possua uma conta no GitHub, será necessário criar uma.
 
 Processo padrão de criação de conta. 
 
-**Recomendação*
+*Recomendação*
 [Link](https://www.youtube.com/watch?v=_hZf1teRFNg) do vídeo no YouTube para auxiliar:
     
 Após criar uma conta, precisa configurar sua chave SSH.
@@ -214,29 +217,29 @@ Após criar uma conta, precisa configurar sua chave SSH.
 7. Configurando o Git/Desktop
 
 Digite a os seguintes comandos para configurar sua conta
-´´´git config --grobal user.name "user name´´´ 
+`git config --grobal user.name "user name`
 Altere "user name" pelo seu nome cadatrado no GitHub
 Precione "Enter"
-´´´git config --grobal user.email "user email´´´
+`git config --grobal user.email "user email`
 Altere "user email" pelo seu email cadatrado no GitHub
 
 Para verficar se ocorreu tudo bem, digite o seguinte comando:
-´´´git config --list´´´
+`git config --list`
 
 8. Criando uma chave SSH
 
-**Recomendação*
+*Recomendação*
 [Link](https://www.youtube.com/watch?v=_hZf1teRFNg) do vídeo no YouTube para auxilar:
         
 [Link oficial](https://docs.github.com/pt/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) do GitHub ensinando como gerar uma chave SSH:
         
 Passo 1
 
-**PARA WINDOWS*
+*PARA WINDOWS*
 Digite o seguinte comando o terminal do Git Bash, alterando "your_email@example.com" para seu email do GitHub:
-´´´ssh-keygen -t ed25519 -C "your_email@example.com´´´
+`ssh-keygen -t ed25519 -C "seu_email@example.com`
 Caso estiver usando um sistema herdado que não dá suporte ao algoritmo Ed25519, use:
-´´´ssh-keygen -t rsa -b 4096 -C "your_email@example.com´´´
+`ssh-keygen -t rsa -b 4096 -C "seu_email@example.com`
 Alterando "your_email@example.com" para seu email do GitHub
 Pressione "Enter"
 Pressione "Enter" novamente para salvar sua chave na pasta sugerida mostrada no terminal
