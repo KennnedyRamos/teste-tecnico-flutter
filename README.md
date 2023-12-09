@@ -250,18 +250,24 @@ Passo 1
 7. Configurando o Git/Desktop
 
 - Digite a os seguintes comandos para configurar sua conta
+
 `git config --grobal user.name "user name`
+
 - Altere "user name" pelo seu nome cadatrado no GitHub
 - Precione "Enter"
+
 `git config --grobal user.email "user email`
+
 - Altere "user email" pelo seu email cadatrado no GitHub
 
-- Para verficar se ocorreu tudo bem, digite o seguinte comando:
+- Para verficar se ocorreu tudo bem, digite o seguinte comando
+
 `git config --list`
 
 8. Criando uma chave SSH
 
 *Recomendação*
+
 [Link](https://www.youtube.com/watch?v=_hZf1teRFNg) do vídeo no YouTube para auxilar:
         
 [Link oficial](https://docs.github.com/pt/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) do GitHub ensinando como gerar uma chave SSH:
@@ -269,6 +275,7 @@ Passo 1
 Passo 1
 
 *PARA WINDOWS*
+
 - Digite o seguinte comando o terminal do Git Bash, alterando "seu_email@example.com" para seu email do GitHub
 
 `ssh-keygen -t ed25519 -C "seu_email@example.com`
