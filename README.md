@@ -10,7 +10,7 @@ bifurcar o repositório
 
 ***# Para iniciantes recomendo que siga o passo a passo a baixo: ***
 
-## Para inicialização do código, será necessário instalar alguns programas.
+## Para inicialização do código será necessário instalar alguns programas.
     Programas necessários:
     * Git
     * SDK do Flutter
