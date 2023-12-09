@@ -29,7 +29,17 @@ Passo 2
 - Pressione "Enter"
 - Digite:
 `cd teste-tecnico-flutter` para abrir a pasta do projeto
-- Outro método é abrir o Vs Code, clique em "Clonar Repositório do GitHub
+
+Passo 3
+
+- Abra o Vs Code
+- Clique em `Arquivos`
+- `Abrir Pasta`
+- Busque pela pasta (Por padrão ela será salva na raiz do seu computador)
+  Ex "C:\Users\PC\teste-tecnico-flutter"
+- Clique em `Selecionar Pasta`
+  
+##Outro método é abrir o Vs Code, clique em "Clonar Repositório do GitHub
 
 ![Bem-vindo - Visual Studio Code 09_12_2023 13_27_33](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/713f7892-c4dc-4dbc-93c0-d2c1b163394b)
 
@@ -37,7 +47,7 @@ Passo 2
 
 ![Bem-vindo - Visual Studio Code 09_12_2023 13_27_48](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/e298ff74-436d-40a6-801c-39aacca65132)
 
-- Escolha o Projeto "teste-tecnico-flutter" 
+- Escolha o Projeto `teste-tecnico-flutter`
 
 ![Bem-vindo - Visual Studio Code 09_12_2023 13_28_06](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/914514ce-1bf4-4a3f-9e2f-e40b7478f6c0)
 
@@ -74,21 +84,21 @@ Passo 2
 Passo 3 
 
 - Faça a instalação, é bem simples.
-Aceite os termos, click em "próximo" até que comece a instalação.
+Aceite os termos, click em `próximo` até que comece a instalação.
 
 ![instalado o vs code](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/4c126d8a-48f1-4bdb-b4d2-df04911bb539)
 
 Passo 4
 
 - Após a instalação, abra o Vs Code
-- Vá na guia "Extensões". Na barra de pesquisa procure por "flutter"
+- Vá na guia `Extensões`. Na barra de pesquisa procure por `flutter`
 
 ![Bem-vindo - Visual Studio Code 07_12_2023 14_45_16](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/fe119c9c-4f43-4fe7-9c45-93876526db0c)
 
 Passo 5
 
 - Selecione o primeiro que aparece (com o selo de verificado)
-- Click em "Instalar" e aguarde a instalação 
+- Click em `Instalar` e aguarde a instalação 
 
 ![Bem-vindo - Visual Studio Code 07_12_2023 14_45_56](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/3cc3b102-e630-4c51-8ab1-9d56e3dc83fd)
 
