@@ -6,9 +6,10 @@ Repositório:
 Contribua com o projeto.
 
 Passo 1
+[Link oficial do GitHub](https://docs.github.com/pt/get-started/quickstart/fork-a-repo) para auxiliar
+
 
 Faça um fork do repositório clicando no botão "Fork" na parte superior direita da página.
-[Link oficial do GitHub](https://docs.github.com/pt/get-started/quickstart/fork-a-repo) para auxiliar
 
 ![KennnedyRamos_teste-tecnico-flutter_ Teste técnico 1 - Flutter_Dart - Google Chrome 09_12_2023 12_55_15](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/1f5ab9a9-2ef0-436d-ae37-04d91127f4a1)
 
