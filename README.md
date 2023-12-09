@@ -25,7 +25,7 @@ Siga as instruções abaixo para instalar as dependências necessárias.
 
 1. Instalando o Vs Code
     **Recomendação**
-[link do vídeo do YouTube para auxiliar](https://www.youtube.com/watch?v=uxln1hT_Ev4)
+[link do vídeo do YouTube ](https://www.youtube.com/watch?v=uxln1hT_Ev4) para auxiliar
 
 Passo 1
 
@@ -59,9 +59,9 @@ Click em "Instalar" e aguarde a instalação
 
 2. Instalar o SDK do Flutter
 
-**Recomendação**
+**Recomendação*
 Assista ao vídeo tutorial aqui para orientações detalhadas. 
-[Link](https://www.youtube.com/watch?v=dpppZ9ySJSY&t=1204s) do vídeo no YouTube para auxiliar
+[Link do vídeo no YouTube](https://www.youtube.com/watch?v=dpppZ9ySJSY&t=1204s) para auxiliar
 
 Passo 1
 
@@ -82,7 +82,8 @@ Click para fazer o download
 
 Passo 4
 
-**Recomendações**
+**Recomendações*
+
 Crie uma pasta na raiz do disco local C. "src"
     
 **OBS: não instale no diretório C:\Arquivos e Programas. Isso pode gerar conflito**
@@ -144,14 +145,14 @@ Digite o comando “flutter doctor” para verificar se está tudo certo com a i
 
 ![comando flutter doctor](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/ceae4696-95df-4f51-9158-800caadd1ea2)
 
-**Se atente com os verificados em verde: "Flutter","Windows version", "Conected Devices" e "Network resorcers, pois eles dizem se está tudo certo com a instalação.**
+Se atente com os verificados em verde: "Flutter","Windows version", "Conected Devices" e "Network resorcers, pois eles dizem se está tudo certo com a instalação.
 
 ![verificação da instalação do flutter](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/928700ee-332e-45c6-8bfa-57adb9595e31)
 
 3. Baixando o Git
 
-**Recomendação**
-[link](https://www.youtube.com/watch?v=_hZf1teRFNg) do vídeo do YouTube para auxiliar
+**Recomendação*
+[link do vídeo do YouTube](https://www.youtube.com/watch?v=_hZf1teRFNg)  para auxiliar
 
 Passo 1
 
@@ -201,9 +202,10 @@ Passo 1
 
 Caso não possua uma conta no GitHub, será necessário criar uma.
 [Link](https://github.com/signup?source=login) para criar conta no GitHub
+
 Processo padrão de criação de conta. 
 
-**Recomendação**
+**Recomendação*
 [Link](https://www.youtube.com/watch?v=_hZf1teRFNg) do vídeo no YouTube para auxiliar:
     
 Após criar uma conta, precisa configurar sua chave SSH.
@@ -223,14 +225,14 @@ Para verficar se ocorreu tudo bem, digite o seguinte comando:
 
 8. Criando uma chave SSH
 
-**Recomendação**
+**Recomendação*
 [Link](https://www.youtube.com/watch?v=_hZf1teRFNg) do vídeo no YouTube para auxilar:
         
 [Link oficial](https://docs.github.com/pt/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) do GitHub ensinando como gerar uma chave SSH:
         
 Passo 1
 
-*** PARA WINDOWS *** 
+**PARA WINDOWS*
 Digite o seguinte comando o terminal do Git Bash, alterando "your_email@example.com" para seu email do GitHub:
 ### ssh-keygen -t ed25519 -C "your_email@example.com"
 Caso estiver usando um sistema herdado que não dá suporte ao algoritmo Ed25519, use:
