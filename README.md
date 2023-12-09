@@ -34,16 +34,19 @@ Escolha o sistema operacional desejado de acordo com o que utiliza para fazer o 
 ### Passo 3 
 Faça a instalação, é bem simples.
 Aceite os termos, click em "próximo" até que comece a instalação.
+
 ![Alt text](<imagens/instalado o vs code.png>)
 
 ### Passo 4
 Após a instalação, abra o Vs Code
 Vá na guia "Extensões". Na barra de pesquisa procure por "flutter"
+
 ![Alt text](<imagens/Bem-vindo - Visual Studio Code 07_12_2023 14_45_16.png>)
 
 ### Passo 5
 Selecione o primeiro que aparece (com o selo de verificado)
 Click em "Instalar" e aguarde a instalação 
+
 ![Alt text](<imagens/Bem-vindo - Visual Studio Code 07_12_2023 14_45_56.png>)
 
 Pronto, agora vamos instalar o SDK do Flutter
@@ -58,10 +61,12 @@ Click no link a seguir para leva-lo direto ao site oficial
 
 ### Passo 2
 Escolha o download de acordo com o sistema operacional que utiliza.
+
 ![Alt text](<imagens/sistema operacional.png>)
 
 ### Passo 3 
 Click para fazer o download 
+
 ![Alt text](<imagens/download sdk.png>)
 
 ### Passo 4
@@ -70,7 +75,9 @@ Crie uma pasta na raiz do disco local C. "src"
 *** OBS: não instale no diretório C:\Arquivos e Programas. Isso pode gerar conflito ***
 
 Após o download ser finalizado, abra o local do arquivo.
+
 ![Alt text](<imagens/arquivo ZIP.png>)
+
 Click em com o botão direito em cima do arquivo, depois, Extrair Tudo.
 Selecione a pasta criada para extrair (src)
 Aguarde ... Isso pode levar alguns minutos
@@ -78,30 +85,38 @@ Aguarde ... Isso pode levar alguns minutos
 ### Passo 5
 ### Atualização do PATH
 Digite “env” na barra de pesquisa do Windows 
+
 ![Alt text](<imagens/digitando env.png>)
 
 Clique em “Editar variáveis de ambiente”
 Depois clique em “variáveis de ambiente”
+
 ![Alt text](<imagens/Propriedades do Sistema 07_12_2023 13_45_15.png>)
 
 Em variáveis de usuário, procure o “PATH”
+
 ![Alt text](<imagens/Propriedades do Sistema 07_12_2023 13_50_29.png>)
 
 De um duplo click 
+
 ![Alt text](<imagens/Propriedades do Sistema 07_12_2023 13_50_40.png>)
 
 Agora precisará passar o cominho da pasta “bin” do arquivo “Flutter”
 Vá até o arquivo extraído do Flutter no diretório C:\scr\flutter
+
 ![Alt text](<imagens/pasta src.png>)
 
 Abra a pasta “bin”
+
 ![Alt text](<imagens/scr 07_12_2023 13_50_54.png>)
 
 Copie esse caminho (crtl + C)
+
 ![Alt text](<imagens/scr 07_12_2023 13_50_58.png>)
 
 Volte nas variáveis de ambiente 
 Depois, clique em “NOVO”
+
 ![Alt text](<imagens/Propriedades do Sistema 07_12_2023 13_50_40.png>)
 
 Cole o caminho copiado (C:\scr\flutter\bin)
@@ -109,12 +124,15 @@ Agora é só dar “OK” em todos para salvar
 
 ### Passo 6 
 Abra o terminal Power Shell digitando-o na barra de pesquisa do Windows 
+
 ![Alt text](<imagens/abrindo o power shell.png>)
 
 Digite o comando “flutter doctor” para verificar se está tudo certo com a instalação
+
 ![Alt text](<imagens/comando flutter doctor.png>)
 
 *** Se atente com os verificados em verde: "Flutter","Windows version", "Conected Devices" e "Network resorcers, pois eles dizem se está tudo certo com a instalação. ***
+
 ![Alt text](<imagens/verificação da instalação do flutter.png>)
 
 ## Baixando o Git
@@ -126,16 +144,20 @@ Baixe o git
 Link direto:
     - https://git-scm.com/download/win
 Escolha o download de acordo com o sistema operacional que utiliza.
+
 ![Alt text](<imagens/git/Nova guia - Google Chrome 07_12_2023 10_49_25.png>)
 
 Caso for Windows escolha a versão (32 ou 64 bits )
+
 ![Alt text](<imagens/git/Nova guia - Google Chrome 07_12_2023 10_49_43.png>)
 
 O download será feito
+
 ![Alt text](<imagens/git/dowload git finalizado.png>)
 
 ###  Passo 2
 Após finalizar o download, click no arquivo baixado para inicializar a instalação
+
 ![Alt text](imagens/git/pasta.png)
 
 ### Passo 3
@@ -144,11 +166,13 @@ Click em "Next" até o programa começar a instalar.
 
 ## Instalando o Git
 Na barra de pesquisa do Windows pesquise por "Git"
+
 ![Alt text](<imagens/git/Screenshot 07_12_2023 15_44_52.png>)
 
 Abra-o
 Digite o seguinte comando para verificar se a instalação está ok
     " git --version" e aperte "Enter"
+    
 ![Alt text](<imagens/git/MINGW64__c_Users_PC_Downloads 07_12_2023 15_59_51.png>)
 
 Estará tudo certo com a instalação caso apareça a verão instalada
@@ -201,9 +225,11 @@ Caso opte por definir uma senha, será pedido que digite-a duas vezes.
 
 ### Passo 3
 Vá até sua conta do GitHub. Abra a aba de configurações e procure por Chaves SSH e GPG
+
 ![Alt text](imagens/git/SSH.png)
 
 Clique em "Nova Chave Key"
+
 ![Alt text](imagens/git/novakey.png)
 
 ### Passo 4 
@@ -219,9 +245,12 @@ De um titulo a sua chave e cole o texto (Sua Chave SSH)
 Clique em "Adicionar Chave" para concluir e finalizar.
 
 - Minhas Redes Sociais:
+- 
 -Linkedin
 https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/
+
 -GitHub:
 https://github.com/KennnedyRamos
+
 - Email:
 kennedy_ramos9@icloud.com
