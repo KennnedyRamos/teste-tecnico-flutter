@@ -238,13 +238,16 @@ Abra-o
 Passo 1
 
 - Caso não possua uma conta no GitHub, será necessário criar uma.
-[Link](https://github.com/signup?source=login) para criar conta no GitHub
+[Link Criar Conta](https://github.com/signup?source=login)
+
 - Processo padrão de criação de conta. 
 
 *Recomendação*
-[Link](https://www.youtube.com/watch?v=_hZf1teRFNg) do vídeo no YouTube para auxiliar:
+
+[Link do vídeo no YouTube](https://www.youtube.com/watch?v=_hZf1teRFNg)
     
 - Após criar uma conta, precisa configurar sua chave SSH.
+- 
 *É importante para poder sincronizar o desktop com a nuvem do GitHub*
 
 7. Configurando o Git/Desktop
