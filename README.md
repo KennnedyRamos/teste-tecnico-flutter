@@ -12,7 +12,7 @@ Clone o repositório para o seu ambiente local. Use o seguinte comando no termin
 
 Abra o Git Bash 
 Copie o código:
-### git clone https://github.com/KennnedyRamos/teste-tecnico-flutter
+´´´git clone https://github.com/KennnedyRamos/teste-tecnico-flutter´´´
 
 
 Para iniciantes recomendo que siga o passo a passo a baixo
@@ -24,7 +24,8 @@ Instale as Dependências:
 Siga as instruções abaixo para instalar as dependências necessárias.
 
 1. Instalando o Vs Code
-    **Recomendação**
+    **Recomendação*
+   
 [link do vídeo do YouTube ](https://www.youtube.com/watch?v=uxln1hT_Ev4) para auxiliar
 
 Passo 1
@@ -189,7 +190,7 @@ Passo 2
 
 Abra-o
 Digite o seguinte comando para verificar se a instalação está ok
-### git --version
+´´´git --version´´´
 Aperte "Enter"
 
 ![MINGW64__c_Users_PC_Downloads 07_12_2023 15_59_51](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/c8fd3cb0-ca4b-4ed0-a92d-7622e26e7931)
@@ -214,14 +215,14 @@ Após criar uma conta, precisa configurar sua chave SSH.
 7. Configurando o Git/Desktop
 
 Digite a os seguintes comandos para configurar sua conta
-### git config --grobal user.name "user name" 
+´´´git config --grobal user.name "user name´´´ 
 Altere "user name" pelo seu nome cadatrado no GitHub
 Precione "Enter"
-### git config --grobal user.email "user email" 
+´´´git config --grobal user.email "user email´´´
 Altere "user email" pelo seu email cadatrado no GitHub
 
 Para verficar se ocorreu tudo bem, digite o seguinte comando:
-### git config --list
+´´´git config --list´´´
 
 8. Criando uma chave SSH
 
@@ -234,9 +235,9 @@ Passo 1
 
 **PARA WINDOWS*
 Digite o seguinte comando o terminal do Git Bash, alterando "your_email@example.com" para seu email do GitHub:
-### ssh-keygen -t ed25519 -C "your_email@example.com"
+´´´ssh-keygen -t ed25519 -C "your_email@example.com´´´
 Caso estiver usando um sistema herdado que não dá suporte ao algoritmo Ed25519, use:
-### ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+´´´ssh-keygen -t rsa -b 4096 -C "your_email@example.com´´´
 Alterando "your_email@example.com" para seu email do GitHub
 Pressione "Enter"
 Pressione "Enter" novamente para salvar sua chave na pasta sugerida mostrada no terminal
