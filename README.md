@@ -3,16 +3,39 @@ Teste Técnico 1 - Flutter/Dart
 Repositório:
 [link do repositório](https://github.com/KennnedyRamos/teste-tecnico-flutter)
 
-Contribua.
-Fork do Repositório:
+Contribua com o projeto.
+
+Passo 1
+
 Faça um fork do repositório clicando no botão "Fork" na parte superior direita da página.
 
-Clonar Repositório:
-Clone o repositório para o seu ambiente local. Use o seguinte comando no terminal:
+IMAGEM 
 
+Confirme
+
+IMAGEM
+
+Aguarde...
+
+Passo 2
+
+Clone o repositório para o seu ambiente local. Use o seguinte comando no terminal:
 Abra o Git Bash 
 Copie o código:
 `git clone https://github.com/KennnedyRamos/teste-tecnico-flutter`
+Pressione "Enter"
+Digite:
+`cd teste-tecnico-flutter` para abrir a pasta do projeto
+Outro método é abrir o Vs Code, clique em "Clonar Repositório do GitHub
+
+IMAGEM 
+
+Selecione O GitHub
+
+Escolha o Projeto "teste-tecnico-flutter" 
+Escolha um local onde deseja salvar o projeto e pronto.
+Execute o projeto.
+Altere os números para testar.
 
 Para iniciantes recomendo que siga o passo a passo a baixo
 
