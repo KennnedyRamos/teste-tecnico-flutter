@@ -14,7 +14,7 @@ Passo 1
 
 ![KennnedyRamos_teste-tecnico-flutter_ Teste técnico 1 - Flutter_Dart - Google Chrome 09_12_2023 12_55_15](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/1f5ab9a9-2ef0-436d-ae37-04d91127f4a1)
 
-Confirme
+- Confirme
 
 ![KennnedyRamos_teste-tecnico-flutter_ Teste técnico 1 - Flutter_Dart - Google Chrome 09_12_2023 12_55_34](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/18af372e-2024-47f5-b61b-a4b5845744b4)
 
@@ -22,33 +22,33 @@ Aguarde...
 
 Passo 2
 
-Clone o repositório para o seu ambiente local. Use o seguinte comando no terminal:
-Abra o Git Bash 
-Copie o código:
+- Clone o repositório para o seu ambiente local. Use o seguinte comando no terminal:
+- Abra o Git Bash 
+- Copie o código:
 `git clone https://github.com/KennnedyRamos/teste-tecnico-flutter`
-Pressione "Enter"
-Digite:
+- Pressione "Enter"
+- Digite:
 `cd teste-tecnico-flutter` para abrir a pasta do projeto
-Outro método é abrir o Vs Code, clique em "Clonar Repositório do GitHub
+- Outro método é abrir o Vs Code, clique em "Clonar Repositório do GitHub
 
 ![Bem-vindo - Visual Studio Code 09_12_2023 13_27_33](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/713f7892-c4dc-4dbc-93c0-d2c1b163394b)
 
-Selecione O GitHub
+- Selecione O GitHub
 
 ![Bem-vindo - Visual Studio Code 09_12_2023 13_27_48](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/e298ff74-436d-40a6-801c-39aacca65132)
 
-Escolha o Projeto "teste-tecnico-flutter" 
+- Escolha o Projeto "teste-tecnico-flutter" 
 
 ![Bem-vindo - Visual Studio Code 09_12_2023 13_28_06](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/914514ce-1bf4-4a3f-9e2f-e40b7478f6c0)
 
-Escolha um local onde deseja salvar o projeto e pronto.
-Execute o projeto.
+- Escolha um local onde deseja salvar o projeto e pronto.
+- Execute o projeto.
 
-Altere os números para testar.
+- Altere os números para testar.
 
 ![teste_tecnico1 dart - teste-tecnico-flutter - Visual Studio Code 09_12_2023 13_42_39](https://github.com/KennnedyRamos/teste-tecnico-flutter-Dart/assets/130500842/a134ff77-8b6b-4b00-bbda-4145d87ed9a6)
  
-Para iniciantes recomendo que siga o passo a passo a baixo
+# Para iniciantes recomendo que siga o passo a passo a baixo
 
 Instale as Dependências:
     * Git
