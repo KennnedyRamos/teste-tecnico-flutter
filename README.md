@@ -269,11 +269,15 @@ Passo 1
 Passo 1
 
 *PARA WINDOWS*
-- Digite o seguinte comando o terminal do Git Bash, alterando "your_email@example.com" para seu email do GitHub:
+- Digite o seguinte comando o terminal do Git Bash, alterando "seu_email@example.com" para seu email do GitHub
+
 `ssh-keygen -t ed25519 -C "seu_email@example.com`
-- Caso estiver usando um sistema herdado que não dá suporte ao algoritmo Ed25519, use:
+
+- Caso estiver usando um sistema herdado que não dá suporte ao algoritmo Ed25519, use
+
 `ssh-keygen -t rsa -b 4096 -C "seu_email@example.com`
-- Alterando "your_email@example.com" para seu email do GitHub
+
+- Alterando "seu_email@example.com" para seu email do GitHub
 - Pressione "Enter"
 - Pressione "Enter" novamente para salvar sua chave na pasta sugerida mostrada no terminal
 
