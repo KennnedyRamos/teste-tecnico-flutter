@@ -12,7 +12,7 @@ Clone o repositório para o seu ambiente local. Use o seguinte comando no termin
 
 Abra o Git Bash 
 Copie o código:
-´´´git clone https://github.com/KennnedyRamos/teste-tecnico-flutter´´´
+#git clone https://github.com/KennnedyRamos/teste-tecnico-flutter
 
 
 Para iniciantes recomendo que siga o passo a passo a baixo
