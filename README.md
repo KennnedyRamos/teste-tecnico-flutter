@@ -167,7 +167,7 @@ Passo 5
 
 ![pasta src](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/e08c1a78-7cf6-4153-aa53-113d8f22b912)
 
-- Abra e procure pela pasta `\bin`
+- Abra-o e procure pela pasta `\bin`
 
 ![scr 07_12_2023 13_50_54](https://github.com/KennnedyRamos/teste-tecnico-flutter/assets/130500842/0284309b-48c1-42d2-8ccc-442102a465cf)
 
